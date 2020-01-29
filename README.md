@@ -242,7 +242,7 @@ May the world be well.
 现在官方没有一个信息汇总的入口，关注疫情的新闻散乱并迭代快，并难以收集信息
 
 - 基于Vue+Mapv 实现，具体见 [开发文档](dev.md)
-- 同时本仓库也为外部提供API用于分析，直接引用 [data.js](https://2019-ncov.datav.ai/data.js)即可，详见开发文档
+- 同时本仓库也为外部提供API用于分析，直接引用 [data.js]()即可，详见开发文档
 
 ## 更新日志/Update Log
 |日期|操作|依据|
